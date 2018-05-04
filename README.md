@@ -3,6 +3,8 @@
 * [这个库用来做什么](#这个库用来干什么)
 * [版权说明](#版权说明)
 * [我想了解这个事件](#我想了解这个事件)
+* [Gitpage-1:大陆地区无法访问](https://sikaozhe1997.github.io/Xin-Yue/)
+* [Gitpage-2](https://mofiths.github.io/Xin-Yue/#/)
 * [我想参与讨论这个事件](#我想参与讨论这个事件)
 * [我该如何提供我掌握的信息](#我该如何提供我掌握的信息)
 
@@ -23,7 +25,7 @@
 
 - 如果您想了解整个事件请访问[Gitpage](https://sikaozhe1997.github.io/Xin-Yue/) , 里面有事件开始到现在网络上出现过的大多数文章。网页中的文章皆不是该Repo的Owner，Collaborator，Contributor所写，这些只是他们所收集的文章，**真实性请自己判断**。
 
-- 最新动态：根据微信群的消息（真实性不确定），[岳昕同学已经回到学校](https://github.com/sikaozhe1997/Xin-Yue/issues/614)
+- 最新动态：[岳昕同学最新文章：我在公开信后的一周里](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%9C%A8%C2%B7%E7%94%B0%EF%BC%9A%E6%88%91%E5%9C%A8%E5%85%AC%E5%BC%80%E4%BF%A1%E5%90%8E%E7%9A%84%E4%B8%80%E5%91%A8%E9%87%8C.md)
 
 - 已收录文章：
     
@@ -32,6 +34,10 @@
         [岳昕：致北大师生与北大外国语学院的一封公开信](https://sikaozhe1997.github.io/Xin-Yue/#/%E5%B2%B3%E6%98%95%EF%BC%9A%E8%87%B4%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B8%88%E7%94%9F%E5%92%8C%E5%8C%97%E5%A4%A7%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E9%99%A2%E7%9A%84%E4%B8%80%E5%B0%81%E5%85%AC%E5%BC%80%E4%BF%A1.md)
         
         [岳昕：一个北大既得利益者的自述](https://sikaozhe1997.github.io/Xin-Yue/#/%E4%B8%80%E4%B8%AA%E5%8C%97%E5%A4%A7%E6%97%A2%E5%BE%97%E5%88%A9%E7%9B%8A%E8%80%85%E7%9A%84%E8%87%AA%E8%BF%B0.md)
+        
+        [岳昕：新年献词 | 2017的三个追问](https://sikaozhe1997.github.io/Xin-Yue/#/%E5%B2%B3%E6%98%95%EF%BC%9A%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%AF%8D--2017%E7%9A%84%E4%B8%89%E4%B8%AA%E8%BF%BD%E9%97%AE.md)
+        
+        [木·田：我在公开信后的一周里](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%9C%A8%C2%B7%E7%94%B0%EF%BC%9A%E6%88%91%E5%9C%A8%E5%85%AC%E5%BC%80%E4%BF%A1%E5%90%8E%E7%9A%84%E4%B8%80%E5%91%A8%E9%87%8C.md)
    
     - 社会评论：
 
@@ -42,18 +48,22 @@
         [公众号 - 量产基地：申请公开信息事件经过](https://sikaozhe1997.github.io/Xin-Yue/#/%E7%94%B3%E8%AF%B7%E5%85%AC%E5%BC%80%E4%BF%A1%E6%81%AF%E4%BA%8B%E4%BB%B6%E7%BB%8F%E8%BF%87%EF%BC%88%E9%87%8F%E4%BA%A7%E5%9F%BA%E5%9C%B0%EF%BC%89.md)
         
         [公众号 - C计划-蓝方：那些珍贵的年轻人](https://sikaozhe1997.github.io/Xin-Yue/#/%E9%82%A3%E4%BA%9B%E7%8F%8D%E8%B4%B5%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA.md)
+        
+        [公众号 - historicize：我所认识的木田同学](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%88%91%E6%89%80%E8%AE%A4%E8%AF%86%E7%9A%84%E6%9C%A8%E7%94%B0%E5%90%8C%E5%AD%A6.md)
     
     - 新闻报道：
         
         [人民日报：如何聆听“年轻的声音”](https://sikaozhe1997.github.io/Xin-Yue/#/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%AE%BA%EF%BC%9A%E5%A6%82%E4%BD%95%E8%81%86%E5%90%AC%E2%80%9C%E5%B9%B4%E8%BD%BB%E7%9A%84%E5%A3%B0%E9%9F%B3%E2%80%9D%EF%BC%9F.md)
     
+        [中青报：问诊高校信息公开：部分高校被指仍有防范心态](https://sikaozhe1997.github.io/Xin-Yue/#/%E9%97%AE%E8%AF%8A%E9%AB%98%E6%A0%A1%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80-%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-20170426%E6%9C%9F%E7%AC%AC5%E7%89%88.md)
+        
     - 燕园内事件与北大回应：
         
         [北大外院：情况通报](https://sikaozhe1997.github.io/Xin-Yue/#/%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E9%99%A2-%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E.md)
         
         [王艳超：作为辅导员说明情况](https://sikaozhe1997.github.io/Xin-Yue/#/%E8%BE%85%E5%AF%BC%E5%91%98%E5%9B%9E%E5%A4%8D.md)
         
-        [沈岿教授：校园约谈指南](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%B2%88%E5%B2%BF%EF%BC%9A%E3%80%8A%E5%AD%A6%E6%A0%A1%E7%BA%A6%E8%B0%88%E6%8C%87%E5%8D%97%E3%80%8B%EF%BC%88%E5%BB%BA%E8%AE%AE%EF%BC%8C%E7%AC%AC%E4%BA%8C%E7%A8%BF%EF%BC%89.md)
+        [沈岿教授：校园约谈指南](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%B2%88%E5%B2%BF%EF%BC%9A%E3%80%8A%E5%AD%A6%E6%A0%A1%E7%BA%A6%E8%B0%88%E6%8C%87%E5%8D%97%E3%80%8B.md)
         
         [彭錞教授：约谈是什么东西](https://sikaozhe1997.github.io/Xin-Yue/#/%E7%BA%A6%E8%B0%88%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF.md)
         
